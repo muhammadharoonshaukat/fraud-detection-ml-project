@@ -15,19 +15,12 @@ The system is designed to:
 ## 📁 Project Workflow
   The project follows a three-stage pipeline architecture
 
-  ### ETL Pipelines (Databricks Medallion Architecture)
-#### 🥉 Bronze Layer
-- Raw transaction data ingestion
-- Preserves original dataset for traceability
-#### 🥈 Silver Layer
-- Data cleaning and preprocessing
-- Handling missing values and duplicates
-- Basic business rule validation
-#### 🥇 Gold Layer
-- Final curated dataset (fraud_gold)
-#### ⚙️ Automation
-- Scheduled workflows for pipeline execution
-- Ensures fresh, reliable, and consistent data
+### ETL Pipeline (Databricks Medallion Architecture)
+- Bronze: Raw data ingestion and storage for traceability
+- Silver: Data cleaning, missing value handling, and validation
+- Gold: Final curated dataset 
+- Automation: Scheduled workflows ensure fresh and reliable data
+  ![Dashboard](./Automated_Dashboard/dashboard_1.png)
 
 ### 🔹 MLflow (Machine Learning Pipeline)
 #### Models Used
