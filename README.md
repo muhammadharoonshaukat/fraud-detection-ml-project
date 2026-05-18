@@ -20,6 +20,7 @@ The system is designed to:
 - Silver: Data cleaning, missing value handling, and validation
 - Gold: Final curated dataset 
 - Automation: Scheduled workflows ensure fresh and reliable data
+  
   ![ETL](./ML_Pipeline_MLflow/screenshots/etl_pipeline.png)
 
 ### MLflow (Machine Learning Pipeline)
@@ -35,7 +36,7 @@ The system is designed to:
 ### MLflow Notebook
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 
-#### MLflow Results
+#### 📸 MLflow Results
 [View Experiment Run](ML_Pipeline_MLflow/screenshots/experiment_run.png)
 
 [View Model Versions](ML_Pipeline_MLflow/screenshots/model_versions.png)
@@ -43,7 +44,6 @@ The system is designed to:
 [View Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
 
 ### Automated Fraud Detection Dashboard
-#### Purpose
 - Real-time fraud monitoring
 - Risk tracking and visualization
 - Business decision support
@@ -53,6 +53,7 @@ The system is designed to:
 ![Dashboard_2](./Automated_Dashboard/dashboard_2.png)
 ![Dashboard_3](./Automated_Dashboard/dashboard_3.png)
 ![Dashboard_4](./Automated_Dashboard/dashboard_4.png)
+
 ## 💼 Business Questions
 - How significant is fraud in the system?
 - What is the nature of fraud behavior?
