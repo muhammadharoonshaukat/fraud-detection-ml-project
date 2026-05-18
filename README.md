@@ -32,11 +32,14 @@ The system is designed to:
 - Logistic Regression → F1: 0.7157 | AUC: 0.8962
 - XGBoost → F1: 0.9994 | AUC: 1.0000
 
+### MLflow Notebook
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 
 #### MLflow Results
 [View Experiment Run](ML_Pipeline_MLflow/screenshots/experiment_run.png)
+
 [View Model Versions](ML_Pipeline_MLflow/screenshots/model_versions.png)
+
 [View Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
 
 ### 🔹 Automated Fraud Detection Dashboard
