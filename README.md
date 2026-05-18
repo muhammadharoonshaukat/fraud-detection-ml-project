@@ -43,7 +43,7 @@ The system is designed to:
 #### Validation Results
 - Logistic Regression → F1: 0.7157 | AUC: 0.8962
 - XGBoost → F1: 0.9994 | AUC: 1.0000
-### 🔹 Automated Power BI Dashboard
+### 🔹 Automated Fraud detection Dashboard
 #### Purpose
 - Real-time fraud monitoring
 - Risk tracking and visualization
