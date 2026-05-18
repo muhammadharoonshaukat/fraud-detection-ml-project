@@ -20,7 +20,7 @@ The system is designed to:
 - Silver: Data cleaning, missing value handling, and validation
 - Gold: Final curated dataset 
 - Automation: Scheduled workflows ensure fresh and reliable data
-  ![Dashboard](./Automated_Dashboard/dashboard_1.png)
+  ![ETL](./ML_Pipeline_MLflow/screenshots/etl_pipeline.png)
 
 ### 🔹 MLflow (Machine Learning Pipeline)
 #### Models Used
