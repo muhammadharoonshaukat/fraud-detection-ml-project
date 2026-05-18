@@ -25,30 +25,30 @@ The system is designed to:
 - Basic business rule validation
 #### 🥇 Gold Layer
 - Final curated dataset (fraud_gold)
+#### ⚙️ Automation
+- Scheduled workflows for pipeline execution
+- Ensures fresh, reliable, and consistent data
 
-⚙️ Automation
-Scheduled workflows for pipeline execution
-Ensures fresh, reliable, and consistent data
-🔹 MLflow (Machine Learning Pipeline)
-Models Used
-Logistic Regression (baseline model)
-XGBoost (advanced model)
-Workflow
-Load gold dataset
-Perform EDA
-Feature engineering
-Model training with MLflow tracking
-Evaluation and comparison
-Model registration
-Validation Results
-Logistic Regression → F1: 0.7157 | AUC: 0.8962
-XGBoost → F1: 0.9994 | AUC: 1.0000
-🔹 Automated Power BI Dashboard
-Purpose
-Real-time fraud monitoring
-Risk tracking and visualization
-Business decision support
-Features
-Interactive filters
-Time-based analysis
-Risk segmentation dashboards
+### 🔹 MLflow (Machine Learning Pipeline)
+#### Models Used
+- Logistic Regression (baseline model)
+- XGBoost (advanced model)
+#### Workflow
+- Load gold dataset
+- Perform EDA
+- Feature engineering
+- Model training with MLflow tracking
+- Evaluation and comparison
+- Model registration
+#### Validation Results
+- Logistic Regression → F1: 0.7157 | AUC: 0.8962
+- XGBoost → F1: 0.9994 | AUC: 1.0000
+### 🔹 Automated Power BI Dashboard
+#### Purpose
+- Real-time fraud monitoring
+- Risk tracking and visualization
+- Business decision support
+- Features
+- Interactive filters
+- Time-based analysis
+- Risk segmentation dashboards
