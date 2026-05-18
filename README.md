@@ -66,6 +66,7 @@ The system is designed to:
 - Fraud Rate: 32.13%
 - Fraud Transactions: 16.07K / 50K (~32%)
 - Fraud Loss: 1.5M / 5.0M (~30%)
+  
 👉 Fraud represents a large portion of both transaction count and financial value, indicating a significant operational risk.
 
 ### 🔹 Fraud Behavior Pattern
