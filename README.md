@@ -34,7 +34,7 @@ The system is designed to:
 
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 
-[MLflow Runs](ML_Pipeline_MLflow/screenshots/experiment_run.png)
+[View MLflow Runs](ML_Pipeline_MLflow/screenshots/experiment_run.png)
 
 ### 🔹 Automated Fraud Detection Dashboard
 #### Purpose
