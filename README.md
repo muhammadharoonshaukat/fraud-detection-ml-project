@@ -16,7 +16,7 @@ The system is designed to:
   The project follows a three-stage pipeline architecture
 
   ### ETL Pipelines (Databricks Medallion Architecture)
-####🥉 Bronze Layer
+#### 🥉 Bronze Layer
 - Raw transaction data ingestion
 - Preserves original dataset for traceability
 🥈 Silver Layer
