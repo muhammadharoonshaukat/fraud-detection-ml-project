@@ -19,16 +19,13 @@ The system is designed to:
 #### 🥉 Bronze Layer
 - Raw transaction data ingestion
 - Preserves original dataset for traceability
-🥈 Silver Layer
-Data cleaning and preprocessing
-Handling missing values and duplicates
-Basic business rule validation
-🥇 Gold Layer
-Final curated dataset (fraud_gold)
-Includes:
-Risk scores
-Fraud labels
-Behavioral features
+#### 🥈 Silver Layer
+- Data cleaning and preprocessing
+- Handling missing values and duplicates
+- Basic business rule validation
+#### 🥇 Gold Layer
+- Final curated dataset (fraud_gold)
+
 ⚙️ Automation
 Scheduled workflows for pipeline execution
 Ensures fresh, reliable, and consistent data
