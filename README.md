@@ -47,10 +47,10 @@ The system is designed to:
 - Real-time fraud monitoring
 - Risk tracking and visualization
 - Business decision support
-- Features
-- Interactive filters
-- Time-based analysis
-- Risk segmentation dashboards
+- Features: Interactive filters, time-based trends, risk segmentation
+  
+![Dashboard_1](ML_Pipeline_MLflow/screenshots/Automated_Dashboard/dashboard_1.png)
+
 ## 💼 Business Questions
 - How significant is fraud in the system?
 - What is the nature of fraud behavior?
