@@ -11,7 +11,7 @@ The system is designed to:
 ## 📁 Dataset & Source
 -	Source: Fraud Detection Transactions Dataset (https://www.kaggle.com/datasets/samayashar/fraud-detection-transactions-dataset/data)
 -	Time Period: January 2023 – December 2023 
--	Purpose: Used for learning and portfolio purpose
+-	Purpose: This project is developed for educational learning and portfolio demonstration purposes only.
 ## 📁 Project Workflow
   The project follows a three-stage pipeline architecture
 
