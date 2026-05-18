@@ -38,7 +38,9 @@ The system is designed to:
 - XGBoost → F1: 0.9994 | AUC: 1.0000
 
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
+
 ![MLflow Runs](ML_Pipeline_MLflow/screenshots/experiment_run.png)
+
 ### 🔹 Automated Fraud Detection Dashboard
 #### Purpose
 - Real-time fraud monitoring
