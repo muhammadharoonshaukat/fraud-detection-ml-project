@@ -40,7 +40,7 @@ The system is designed to:
 
 [View Model Versions](ML_Pipeline_MLflow/screenshots/model_versions.png)
 
-[View Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
+[View Best Model's Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
 
 ### Automated Fraud Detection Dashboard
 - Real-time fraud monitoring
