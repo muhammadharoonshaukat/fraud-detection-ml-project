@@ -42,7 +42,7 @@ The system is designed to:
 
 [View Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
 
-### 🔹 Automated Fraud Detection Dashboard
+### Automated Fraud Detection Dashboard
 #### Purpose
 - Real-time fraud monitoring
 - Risk tracking and visualization
@@ -50,7 +50,9 @@ The system is designed to:
 - Features: Interactive filters, time-based trends, risk segmentation
   
 ![Dashboard_1](./Automated_Dashboard/dashboard_1.png)
-
+![Dashboard_2](./Automated_Dashboard/dashboard_2.png)
+![Dashboard_3](./Automated_Dashboard/dashboard_3.png)
+![Dashboard_4](./Automated_Dashboard/dashboard_4.png)
 ## 💼 Business Questions
 - How significant is fraud in the system?
 - What is the nature of fraud behavior?
