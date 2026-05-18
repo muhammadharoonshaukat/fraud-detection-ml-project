@@ -27,12 +27,7 @@ The system is designed to:
 - Logistic Regression (baseline model)
 - XGBoost (advanced model)
 #### Workflow
-- Load gold dataset
-- Perform EDA
-- Feature engineering
-- Model training with MLflow tracking
-- Evaluation and comparison
-- Model registration
+- Workflow: Data loading → EDA → Feature engineering → Training → Evaluation → Model registration
 #### Validation Results
 - Logistic Regression → F1: 0.7157 | AUC: 0.8962
 - XGBoost → F1: 0.9994 | AUC: 1.0000
