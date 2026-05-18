@@ -36,6 +36,8 @@ The system is designed to:
 #### Validation Results
 - Logistic Regression → F1: 0.7157 | AUC: 0.8962
 - XGBoost → F1: 0.9994 | AUC: 1.0000
+
+[View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 ### 🔹 Automated Fraud Detection Dashboard
 #### Purpose
 - Real-time fraud monitoring
