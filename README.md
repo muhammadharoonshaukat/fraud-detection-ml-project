@@ -34,14 +34,10 @@ The system is designed to:
 
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 
-#### Experiment Runs
+#### MLflow Results
 [View Experiment Run](ML_Pipeline_MLflow/screenshots/experiment_run.png)
-
-### Model Versions
-[View Experiment Run](ML_Pipeline_MLflow/screenshots/model_versions.png)
-
-### XGBoost Metrics
-[View Experiment Run](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
+[View Model Versions](ML_Pipeline_MLflow/screenshots/model_versions.png)
+[View Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
 
 ### 🔹 Automated Fraud Detection Dashboard
 #### Purpose
