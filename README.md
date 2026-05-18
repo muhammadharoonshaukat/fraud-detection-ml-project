@@ -15,7 +15,7 @@ The system is designed to:
 ## 📁 Project Workflow
   The project follows a three-stage pipeline architecture
 
-### ETL Pipeline (Databricks Medallion Architecture)
+### ⚙️ ETL Pipeline (Databricks Medallion Architecture)
 - Bronze: Raw data ingestion and storage for traceability
 - Silver: Data cleaning, missing value handling, and validation
 - Gold: Final curated dataset 
@@ -32,7 +32,7 @@ The system is designed to:
 - Logistic Regression → F1: 0.7157 | AUC: 0.8962
 - XGBoost → F1: 0.9994 | AUC: 1.0000
 
-### MLflow Notebook
+### 📓 MLflow Notebook
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 
 #### 📸 MLflow Results
@@ -42,7 +42,7 @@ The system is designed to:
 
 [View Best Model's Metrics](ML_Pipeline_MLflow/screenshots/xgboost_model_metrics.png)
 
-### Automated Fraud Detection Dashboard
+### 📊 Automated Fraud Detection Dashboard
 - Real-time fraud monitoring
 - Risk tracking and visualization
 - Business decision support
