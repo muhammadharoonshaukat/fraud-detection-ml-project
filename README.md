@@ -22,19 +22,19 @@ The system is designed to:
 - Automation: Scheduled workflows ensure fresh and reliable data
   ![ETL](./ML_Pipeline_MLflow/screenshots/etl_pipeline.png)
 
-### 🔹 MLflow (Machine Learning Pipeline)
+### MLflow (Machine Learning Pipeline)
 #### Models Used
 - Logistic Regression (baseline model)
 - XGBoost (advanced model)
 #### Workflow
-- Workflow: Data loading → EDA → Feature engineering → Training → Evaluation → Model registration
+- Workflow: Data loading → EDA → Feature engineering → Training → Evaluation → Model registration → Deployment
 #### Validation Results
 - Logistic Regression → F1: 0.7157 | AUC: 0.8962
 - XGBoost → F1: 0.9994 | AUC: 1.0000
 
 [View MLflow Notebook](ML_Pipeline_MLflow/mlflow_fraud_detection.ipynb)
 
-![MLflow Runs](ML_Pipeline_MLflow/screenshots/experiment_run.png)
+[MLflow Runs](ML_Pipeline_MLflow/screenshots/experiment_run.png)
 
 ### 🔹 Automated Fraud Detection Dashboard
 #### Purpose
